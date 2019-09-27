@@ -1,0 +1,13 @@
+.Header {
+    background-color: rgb(78, 78, 78);
+    color: white;
+}
+
+.Intro {
+    margin: auto;
+    width: 60%;
+}
+.Work, .AboutMe {
+    display: flex;
+    flex-direction: column;
+}
